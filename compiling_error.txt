@@ -1,0 +1,4 @@
+E:\github\Exercise\Chapter2.cpp: In function 'int main(int, const char**)':
+E:\github\Exercise\Chapter2.cpp:7:12: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+   int &a = 10;
+            ^~
